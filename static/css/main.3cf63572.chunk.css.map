@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/main/Main.css"],"names":[],"mappings":"AAAA,yCAIE,kCACE,iBACF,CACF","file":"main.3cf63572.chunk.css","sourcesContent":["@media only screen and (max-width: 600px) {\r\n  .player-image-title {\r\n    text-align: center;\r\n  }\r\n  .player-title {\r\n    text-align: center;\r\n  }\r\n}\r\n"]}
