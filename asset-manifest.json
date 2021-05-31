@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/stepup/static/css/main.3cf63572.chunk.css",
-    "main.js": "/stepup/static/js/main.6efbfa0b.chunk.js",
-    "main.js.map": "/stepup/static/js/main.6efbfa0b.chunk.js.map",
+    "main.js": "/stepup/static/js/main.435faf92.chunk.js",
+    "main.js.map": "/stepup/static/js/main.435faf92.chunk.js.map",
     "runtime-main.js": "/stepup/static/js/runtime-main.0025b777.js",
     "runtime-main.js.map": "/stepup/static/js/runtime-main.0025b777.js.map",
     "static/js/2.8062d001.chunk.js": "/stepup/static/js/2.8062d001.chunk.js",
@@ -12,12 +12,13 @@
     "index.html": "/stepup/index.html",
     "static/css/main.3cf63572.chunk.css.map": "/stepup/static/css/main.3cf63572.chunk.css.map",
     "static/js/2.8062d001.chunk.js.LICENSE.txt": "/stepup/static/js/2.8062d001.chunk.js.LICENSE.txt",
+    "static/media/background.66fcf8ca.mp4": "/stepup/static/media/background.66fcf8ca.mp4",
     "static/media/spotify.2da90af5.png": "/stepup/static/media/spotify.2da90af5.png"
   },
   "entrypoints": [
     "static/js/runtime-main.0025b777.js",
     "static/js/2.8062d001.chunk.js",
     "static/css/main.3cf63572.chunk.css",
-    "static/js/main.6efbfa0b.chunk.js"
+    "static/js/main.435faf92.chunk.js"
   ]
 }
