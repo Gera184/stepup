@@ -1,0 +1,8 @@
+@media only screen and (max-width: 600px) {
+  .player-image-title {
+    text-align: center;
+  }
+  .player-title {
+    text-align: center;
+  }
+}
